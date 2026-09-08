@@ -41,7 +41,7 @@ Consultant at @Big 4 | Big Data & Machine Learning | Insurance Analytics
 ### 📫 Contact
 
 <p>
-  <a href="[https://www.linkedin.com/in/antonimordka/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/antonimordka/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!--
